@@ -14,8 +14,21 @@ Crypto headlines, a 24-hour hot list, and an AI daily brief.
 | **Hot list** | https://cryptofeed.news/hot |
 | **AI daily brief** | https://cryptofeed.news/brief/today |
 | **This Pages mirror** | https://githubaskbx.github.io/cryptofeed-news/ |
+| **Docs** | https://githubaskbx.github.io/cryptofeed-news/docs/ |
+| **Guide** | https://githubaskbx.github.io/cryptofeed-news/guide/ |
+| **Examples** | https://githubaskbx.github.io/cryptofeed-news/examples/ |
 
 The product domain is **https://cryptofeed.news**. This repository is the public project page.
+
+## Layout
+
+```
+assets/css/site.css
+docs/          about, hot list, daily brief, stack, feedback
+guide/         one-minute pass, sources, English status
+examples/      grouped-story and brief-block samples
+index.html
+```
 
 ## What it does
 
